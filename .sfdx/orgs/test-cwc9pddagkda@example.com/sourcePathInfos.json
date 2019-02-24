@@ -95,11 +95,11 @@
             "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/ManualRecordShare/ManualRecordShare.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 3598,
-            "modifiedTime": 1550975850533,
-            "changeTime": 1550975850533,
+            "size": 3207,
+            "modifiedTime": 1551049249973,
+            "changeTime": 1551049249973,
             "isWorkspace": false,
-            "contentHash": "8d1396dc560c7a2ebfe255383bfa18d10d0f8cb0"
+            "contentHash": "951af14096460aac99f43a6ce2da27d7f3adb8c1"
         }
     ],
     [
@@ -137,14 +137,13 @@
         {
             "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/ManualRecordShare/ManualRecordShare.design",
             "isDirectory": false,
-            "size": 145,
-            "modifiedTime": 1550898747076,
-            "changeTime": 1550898747076,
-            "contentHash": "d95a0c2f347fecc4f2c4d8ded6e438d1c886bc5a",
+            "size": 76,
+            "modifiedTime": 1551025111988,
+            "changeTime": 1551025111988,
+            "contentHash": "bda61d66a789ced027fc58df9d63ebfc8783cb7b",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -165,15 +164,15 @@
     [
         "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/ManualRecordShare/ManualRecordShareController.js",
         {
+            "state": "u",
             "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/ManualRecordShare/ManualRecordShareController.js",
             "isDirectory": false,
-            "size": 100,
-            "modifiedTime": 1550947632649,
-            "changeTime": 1550947632649,
-            "contentHash": "4d0fadd9ae63dae696d7bb49012937fedccc4d53",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false
+            "size": 208,
+            "modifiedTime": 1551049563889,
+            "changeTime": 1551049563889,
+            "isWorkspace": false,
+            "contentHash": "bba9261601c91843bcc2d29e4e46edf063047ea6"
         }
     ],
     [
@@ -268,10 +267,10 @@
         {
             "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare",
             "isDirectory": true,
-            "size": 320,
-            "modifiedTime": 1550971517714,
-            "changeTime": 1550971517714,
-            "contentHash": "02db8e866b646488cb9315a373ff5ffba41ae586",
+            "size": 352,
+            "modifiedTime": 1550978298102,
+            "changeTime": 1550978298102,
+            "contentHash": "f18d4bc0d732420c06bfd239b0d664c4bb99ac2e",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": true

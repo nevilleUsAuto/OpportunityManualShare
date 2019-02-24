@@ -4,7 +4,7 @@
   @Author             : Neville O'Meally
   @Group              : 
   @Last Modified By   : phUser@phDomain.com
-  @Last Modified On   : 2/23/2019, 9:44:03 PM
+  @Last Modified On   : 2/24/2019, 6:00:42 PM
   @Modification Log   : 
   @Third Party Plugin : Strike by Appiphony ~~ http://www.lightningstrike.io/#!/gettingStarted 
   ==============================================================================
@@ -12,65 +12,59 @@
   ==============================================================================
   1.0    2/23/2019, 12:21:50 AM     Neville O'Meally            Initial Version
 -->
-<aura:component description="ManualRecordShare Component" implements="flexipage:availableForAllPageTypes,force:lightningQuickAction,force:hasRecordId" controller="ManualRecordShare_controller" access="global" >
-    <aura:attribute name="sharingObjectName" type="String" description="The Name of the sObject to share records" access="global" />
+<aura:component description="ManualRecordShare Component" implements="flexipage:availableForAllPageTypes,force:lightningQuickActionWithoutHeader,force:hasRecordId" controller="ManualRecordShare_controller" access="global" >
     
-    <aura:attribute name="storeLocation" type="List" default="{'Snellville','Stone Mountain'}" description="Populated with list of store location on load.  OnChange, get list of contacts at that location." />
-
-    <aura:attribute name="sp1ID" type="ID" description="Sales Person 1 ID" />
-    <aura:attribute name="sp2ID" type="ID" description="Sales Person 2 ID" />
-    <aura:attribute name="recID" type="ID" description="The record ID to Share" />
-
-    <aura:attribute name="contact" type="Contact[]" default="{'sobjectType' : 'Contact'}" />
-
     <aura:handler name="init" value="{!this}" action="{!c.doInit}" />
     
-        <lightning:layout multipleRows="true">
+    <lightning:layout multipleRows="true">
 
-            <lightning:layoutItem padding="around-small" size="6" >
-                    <c:strike_lookup
-                        label="Sales Person 1"
+        <lightning:layoutItem padding="around-small" size="12">
+            <div class="page-section page-header slds-text-title_bold slds-text-heading_large">
+                <h1>Manual Sharing</h1>
+            </div>
+        </lightning:layoutItem>
+
+        <lightning:layoutItem padding="around-small" size="12">
+            <lightning:layout>
+
+                <lightning:layoutItem padding="around-small" size="6" >
+                        <c:strike_lookup
+                            label="Sales Person 1"
+                            object="User"
+                            searchField="Name"
+                            placeholder="Select Sales Person 1"
+                            iconName="standard:user"
+                            subtitleField="Id"
+                            order="Name"
+                            limit="5"
+                            loadingMessage="Loading..."
+                            errorMessage="Invalid input"/>
+                </lightning:layoutItem>
+
+                <lightning:layoutItem padding="around-small" size="6" >
+                        <c:strike_lookup
+                        label="Sales Person 2"
                         object="User"
                         searchField="Name"
-                        placeholder="Select Sales Person 1"
+                        placeholder="Select Sales Person 2"
                         iconName="standard:user"
-                        subtitleField="Alias"
+                        subtitleField="Id"
                         order="Name"
                         limit="5"
                         loadingMessage="Loading..."
                         errorMessage="Invalid input"/>
-            </lightning:layoutItem>
+                </lightning:layoutItem>
 
-            <lightning:layoutItem padding="around-small" size="6" >
-                    <c:strike_lookup
-                    label="Sales Person 2"
-                    object="User"
-                    searchField="Name"
-                    placeholder="Select Sales Person 2"
-                    iconName="standard:user"
-                    subtitleField="Alias"
-                    order="Name"
-                    limit="5"
-                    loadingMessage="Loading..."
-                    errorMessage="Invalid input"/>
-            </lightning:layoutItem>
-
-            <lightning:layoutItem padding="around-small" size="6" >
-                <lightning:input name="sp1" type="String" label="Sales Person 1: " aura:id="sp1" value="{!v.contact.Name}" />
-            </lightning:layoutItem>
-
-            <lightning:layoutItem padding="around-small" size="6" >
-                <lightning:input name="sp2" type="String" label="Sales Person 2: " aura:id="sp2" value="{!v.contact.Name}" />
-            </lightning:layoutItem>
-        
-            <lightning:layoutItem padding="around-small" size="6" >
-                Label for force:input
-            </lightning:layoutItem>
-            
-            <lightning:layoutItem padding="around-small" size="6" >
-                <force:inputField value="{!v.contact.Name}" />
-            </lightning:layoutItem>
-        </lightning:layout>
-
+            </lightning:layout>
+        </lightning:layoutItem>
     
+        <lightning:layoutItem flexibility="auto" padding="around-small" size="12">
+            <div class="page-footer page-section slds-align_absolute-center">                
+                <lightning:button variant="brand" label="Share Record" title="Share Record" onclick="{!c.handleShare}" />
+                <lightning:button variant="brand" label="Cancel" title="Cancel" onclick="{!c.handleShare}" />
+            </div>
+        </lightning:layoutItem>
+
+    </lightning:layout>
+  
 </aura:component>	
