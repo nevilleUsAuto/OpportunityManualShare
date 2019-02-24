@@ -1,0 +1,2607 @@
+[
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1550869623605,
+            "changeTime": 1550869623605,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1550869623605,
+            "changeTime": 1550869623605,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1550878925890,
+            "changeTime": 1550878925890,
+            "contentHash": "a21009004cd572d890d65233421722a21fcb20a4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 1056,
+            "modifiedTime": 1550973590865,
+            "changeTime": 1550973590865,
+            "contentHash": "a7d6d85c491c01f3e7519d1472ad31f1d0c3eb5e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/ManualRecordShare",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/ManualRecordShare",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1550896401462,
+            "changeTime": 1550896401462,
+            "contentHash": "d3d2595eef4aca79e11483246c9ca65cfbd9e13c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/ManualRecordShare/ManualRecordShare.auradoc",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/ManualRecordShare/ManualRecordShare.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1550896401462,
+            "changeTime": 1550896401462,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/ManualRecordShare/ManualRecordShare.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/ManualRecordShare/ManualRecordShare.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3598,
+            "modifiedTime": 1550975850533,
+            "changeTime": 1550975850533,
+            "isWorkspace": false,
+            "contentHash": "8d1396dc560c7a2ebfe255383bfa18d10d0f8cb0"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/ManualRecordShare/ManualRecordShare.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/ManualRecordShare/ManualRecordShare.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 249,
+            "modifiedTime": 1550896401459,
+            "changeTime": 1550896401459,
+            "contentHash": "5f60e8a2a115c752e97fa2a04698fb4f72b163c3",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/ManualRecordShare/ManualRecordShare.css",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/ManualRecordShare/ManualRecordShare.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1550896401461,
+            "changeTime": 1550896401461,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/ManualRecordShare/ManualRecordShare.design",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/ManualRecordShare/ManualRecordShare.design",
+            "isDirectory": false,
+            "size": 145,
+            "modifiedTime": 1550898747076,
+            "changeTime": 1550898747076,
+            "contentHash": "d95a0c2f347fecc4f2c4d8ded6e438d1c886bc5a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/ManualRecordShare/ManualRecordShare.svg",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/ManualRecordShare/ManualRecordShare.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1550896401461,
+            "changeTime": 1550896401461,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/ManualRecordShare/ManualRecordShareController.js",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/ManualRecordShare/ManualRecordShareController.js",
+            "isDirectory": false,
+            "size": 100,
+            "modifiedTime": 1550947632649,
+            "changeTime": 1550947632649,
+            "contentHash": "4d0fadd9ae63dae696d7bb49012937fedccc4d53",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/ManualRecordShare/ManualRecordShareHelper.js",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/ManualRecordShare/ManualRecordShareHelper.js",
+            "isDirectory": false,
+            "size": 1472,
+            "modifiedTime": 1550974656766,
+            "changeTime": 1550974656766,
+            "contentHash": "399b628a49837e165688b15d5a9dcca02ebd8edf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/ManualRecordShare/ManualRecordShareRenderer.js",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/ManualRecordShare/ManualRecordShareRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1550896401461,
+            "changeTime": 1550896401461,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/classes",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/classes",
+            "isDirectory": true,
+            "size": 384,
+            "modifiedTime": 1550973725529,
+            "changeTime": 1550973725529,
+            "contentHash": "c2477deb5851e15d3289e89300a1a36343fab59b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/classes/ManualRecordShare_controller.cls",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/classes/ManualRecordShare_controller.cls",
+            "isDirectory": false,
+            "size": 2715,
+            "modifiedTime": 1550949665668,
+            "changeTime": 1550949665668,
+            "contentHash": "e576fcbdf75a362dd3fca4d0bfbfd5825cc1e0ac",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/classes/ManualRecordShare_controller.cls-meta.xml",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/classes/ManualRecordShare_controller.cls-meta.xml",
+            "isDirectory": false,
+            "size": 206,
+            "modifiedTime": 1550896603029,
+            "changeTime": 1550896603029,
+            "contentHash": "09f557f4ca806c6a4a74be208cd2b27cc393731d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/lwc",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/lwc",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1550895800964,
+            "changeTime": 1550895800964,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare",
+            "isDirectory": true,
+            "size": 320,
+            "modifiedTime": 1550971517714,
+            "changeTime": 1550971517714,
+            "contentHash": "02db8e866b646488cb9315a373ff5ffba41ae586",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/ManualShare_App",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/ManualShare_App",
+            "isDirectory": true,
+            "size": 320,
+            "modifiedTime": 1550947808959,
+            "changeTime": 1550947808959,
+            "contentHash": "4b3c0d7fc988462244da6c480f32a7f1c23080d0",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/ManualShare_App/ManualShare_App.app",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/ManualShare_App/ManualShare_App.app",
+            "isDirectory": false,
+            "size": 123,
+            "modifiedTime": 1550948229042,
+            "changeTime": 1550948229042,
+            "contentHash": "636a8cd32440d7517a9b52fdc8ae0228b1514fe9",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/ManualShare_App/ManualShare_App.app-meta.xml",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/ManualShare_App/ManualShare_App.app-meta.xml",
+            "isDirectory": false,
+            "size": 249,
+            "modifiedTime": 1550947808957,
+            "changeTime": 1550947808957,
+            "contentHash": "bfd21ca6afe776d5c5ff45d9e2928f2d2c1cd5ed",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/ManualShare_App/ManualShare_App.auradoc",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/ManualShare_App/ManualShare_App.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1550947808959,
+            "changeTime": 1550947808959,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/ManualShare_App/ManualShare_App.css",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/ManualShare_App/ManualShare_App.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1550947808958,
+            "changeTime": 1550947808958,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/ManualShare_App/ManualShare_App.svg",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/ManualShare_App/ManualShare_App.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1550947808959,
+            "changeTime": 1550947808959,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/ManualShare_App/ManualShare_AppController.js",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/ManualShare_App/ManualShare_AppController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1550947808957,
+            "changeTime": 1550947808957,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/ManualShare_App/ManualShare_AppHelper.js",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/ManualShare_App/ManualShare_AppHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1550947808958,
+            "changeTime": 1550947808958,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/ManualShare_App/ManualShare_AppRenderer.js",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/ManualShare_App/ManualShare_AppRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1550947808958,
+            "changeTime": 1550947808958,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/defaultTokens",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/defaultTokens",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590693,
+            "contentHash": "9c13df0e131455c056bf7320226e1f7b5dfc93ce",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_badge",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_badge",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590712,
+            "contentHash": "c413ff38b2a65f5d8d4b9dbc4b7bd6bf4f85b50e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_carousel",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_carousel",
+            "isDirectory": true,
+            "size": 256,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590734,
+            "contentHash": "5c8fc813ef423cd9abee4bc56c4eb00c5b2aff27",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_carouselCard",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_carouselCard",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590754,
+            "contentHash": "f74f56a264dad55d338864106c9a7b213199d892",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_chart",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_chart",
+            "isDirectory": true,
+            "size": 256,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590777,
+            "contentHash": "4eab5cd9d8f8c5141831b05d3b031fdff8cecf6d",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_dataGrid",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_dataGrid",
+            "isDirectory": true,
+            "size": 224,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590798,
+            "contentHash": "4686323c804239d90f9b4be72cd35c42c63f7fcd",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_datepicker",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_datepicker",
+            "isDirectory": true,
+            "size": 256,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590821,
+            "contentHash": "2f6a5621fa319d035ad1cabd4066c100d23e6842",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_evt",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_evt",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590836,
+            "contentHash": "577ad48e6b8ae8c07687836d4528eac5a9d11f49",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_input",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_input",
+            "isDirectory": true,
+            "size": 224,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590857,
+            "contentHash": "0f363f6168badcf484abcc6677d7f996f5dedce5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_lookup",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_lookup",
+            "isDirectory": true,
+            "size": 256,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590882,
+            "contentHash": "7ea0222e72759c1cee1f425bb6f146d606fcd712",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_modal",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_modal",
+            "isDirectory": true,
+            "size": 224,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590903,
+            "contentHash": "e42dd8f95e99f5fc121a31572066251ae76569a1",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_multiLookup",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_multiLookup",
+            "isDirectory": true,
+            "size": 256,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590927,
+            "contentHash": "84947330f1de4969b764adcfa376b99fa59523ad",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_multiSelectPicklist",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_multiSelectPicklist",
+            "isDirectory": true,
+            "size": 256,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590946,
+            "contentHash": "3a51b957ff446e2fcb427802be52300eec88ce21",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_option",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_option",
+            "isDirectory": true,
+            "size": 224,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590967,
+            "contentHash": "809f6c02db5f8dd1f2dfa1418320bf0a3bce7e35",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_optionGroup",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_optionGroup",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590985,
+            "contentHash": "cb5b22505e35cb31f3ba99ad7f6bb84d430ac80f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_outputText",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_outputText",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591009,
+            "contentHash": "ca85199c1dd08edb62850234c6b81fc5a0fcd79f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_param",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_param",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591026,
+            "contentHash": "74129197c7521bd828ad15eccce5a7a135006c53",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_path",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_path",
+            "isDirectory": true,
+            "size": 224,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591046,
+            "contentHash": "789eed8a4d3bd28fa334e7e4eac25777a2483695",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_picklist",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_picklist",
+            "isDirectory": true,
+            "size": 256,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591066,
+            "contentHash": "5b0447bddc04c27a08a0fa8dbd3bd4ea591bd501",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_pill",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_pill",
+            "isDirectory": true,
+            "size": 224,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591087,
+            "contentHash": "66bc6d13177f040ff7a8395ae58028ba16868ca6",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_popover",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_popover",
+            "isDirectory": true,
+            "size": 224,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591108,
+            "contentHash": "420d7081db70ad40d787f3c3262cda06ae46b5f5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_progressMeter",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_progressMeter",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591128,
+            "contentHash": "d98af2ad2eb6936305a9910292726ad529ca1998",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_radioGroup",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_radioGroup",
+            "isDirectory": true,
+            "size": 256,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591148,
+            "contentHash": "9a0d8b9a321c2f388ecf29426cb927e6dbb832f6",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_radioGroupContent",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_radioGroupContent",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591167,
+            "contentHash": "96fe8c6862c849fc95644f6b79ce498958ab1063",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_row",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_row",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591184,
+            "contentHash": "77060508093ab360537ccc6102f1fe0a3a47bb13",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_svg",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_svg",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591206,
+            "contentHash": "6cfebd237963e137e8e9d2029428b2bed866c873",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_textarea",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_textarea",
+            "isDirectory": true,
+            "size": 224,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591225,
+            "contentHash": "12c7e18e03a6f5ab43d3ca6c723a294b543617d3",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_tile",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_tile",
+            "isDirectory": true,
+            "size": 224,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591244,
+            "contentHash": "ee0ea8748c609ad0f4bb6563f78dbfd70b017655",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_tooltip",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_tooltip",
+            "isDirectory": true,
+            "size": 224,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591264,
+            "contentHash": "3436907144c360261f90944ac252dad407c01f6a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/defaultTokens/defaultTokens.tokens",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/defaultTokens/defaultTokens.tokens",
+            "isDirectory": false,
+            "size": 2567,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590693,
+            "contentHash": "bd51df96e7664a7df517415e34a8162c387d5aad",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/defaultTokens/defaultTokens.tokens-meta.xml",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/defaultTokens/defaultTokens.tokens-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590692,
+            "contentHash": "379d947ebfaf249a903d8b860a7dcc5904e5d4aa",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_badge/strike_badge.cmp",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_badge/strike_badge.cmp",
+            "isDirectory": false,
+            "size": 2111,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590711,
+            "contentHash": "d9dfdd523d0e120bd8b217a0926826ae931679fe",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_badge/strike_badge.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_badge/strike_badge.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590710,
+            "contentHash": "379d947ebfaf249a903d8b860a7dcc5904e5d4aa",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_badge/strike_badgeController.js",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_badge/strike_badgeController.js",
+            "isDirectory": false,
+            "size": 1767,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590711,
+            "contentHash": "3e2ddd199eb7707340bf461f6abe2cedd09e2cb8",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_carousel/strike_carousel.cmp",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_carousel/strike_carousel.cmp",
+            "isDirectory": false,
+            "size": 7078,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590730,
+            "contentHash": "f4bfe59791c1d4ee56c50352c300370f0692d323",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_carousel/strike_carousel.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_carousel/strike_carousel.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590733,
+            "contentHash": "379d947ebfaf249a903d8b860a7dcc5904e5d4aa",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_carousel/strike_carousel.css",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_carousel/strike_carousel.css",
+            "isDirectory": false,
+            "size": 2424,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590731,
+            "contentHash": "1071a935598fce9832b382b69998b0f9820e4017",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_carousel/strike_carouselController.js",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_carousel/strike_carouselController.js",
+            "isDirectory": false,
+            "size": 3464,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590729,
+            "contentHash": "b6cc64cf392f2096fcd40dffc3a417c938892c61",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_carousel/strike_carouselHelper.js",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_carousel/strike_carouselHelper.js",
+            "isDirectory": false,
+            "size": 3725,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590733,
+            "contentHash": "606422966dd0d0abacd9a3d298ffd4c2a626790d",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_carousel/strike_carouselRenderer.js",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_carousel/strike_carouselRenderer.js",
+            "isDirectory": false,
+            "size": 1783,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590732,
+            "contentHash": "d0c1fe20e663ebd6bc07cb6f0628254611996000",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_carouselCard/strike_carouselCard.cmp",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_carouselCard/strike_carouselCard.cmp",
+            "isDirectory": false,
+            "size": 3722,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590752,
+            "contentHash": "d744ede1ea230a92b5cba160cc436f2a625988d7",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_carouselCard/strike_carouselCard.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_carouselCard/strike_carouselCard.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590753,
+            "contentHash": "379d947ebfaf249a903d8b860a7dcc5904e5d4aa",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_carouselCard/strike_carouselCard.css",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_carouselCard/strike_carouselCard.css",
+            "isDirectory": false,
+            "size": 2264,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590752,
+            "contentHash": "9e6c041a2795be5fa88c273c30f14e8cbd718631",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_chart/strike_chart.cmp",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_chart/strike_chart.cmp",
+            "isDirectory": false,
+            "size": 10172,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590774,
+            "contentHash": "23e1e2670603d4205b69e9ea8d09afdae3b28130",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_chart/strike_chart.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_chart/strike_chart.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590776,
+            "contentHash": "379d947ebfaf249a903d8b860a7dcc5904e5d4aa",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_chart/strike_chart.css",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_chart/strike_chart.css",
+            "isDirectory": false,
+            "size": 3945,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590773,
+            "contentHash": "ed9ea8ae4ede0729e8547c63cb9564ea8fed15c9",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_chart/strike_chartController.js",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_chart/strike_chartController.js",
+            "isDirectory": false,
+            "size": 2470,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590774,
+            "contentHash": "96d3c8c992e6e5c4d3972c9cfcbe0d29cbd41284",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_chart/strike_chartHelper.js",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_chart/strike_chartHelper.js",
+            "isDirectory": false,
+            "size": 55464,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590775,
+            "contentHash": "2c9ce6565175a4b85c5e4cb793b1ee9eb4c54170",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_chart/strike_chartRenderer.js",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_chart/strike_chartRenderer.js",
+            "isDirectory": false,
+            "size": 2403,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590777,
+            "contentHash": "aacc1c79c82ac5dea3e082c0c47ba39e705d880a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_dataGrid/strike_dataGrid.cmp",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_dataGrid/strike_dataGrid.cmp",
+            "isDirectory": false,
+            "size": 6617,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590795,
+            "contentHash": "df631c773a4d334b8aecad589f7ef78e5a65749c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_dataGrid/strike_dataGrid.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_dataGrid/strike_dataGrid.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590797,
+            "contentHash": "379d947ebfaf249a903d8b860a7dcc5904e5d4aa",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_dataGrid/strike_dataGrid.css",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_dataGrid/strike_dataGrid.css",
+            "isDirectory": false,
+            "size": 2257,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590796,
+            "contentHash": "a887b9f7719ac580376f9d67195bbbd7af24a5a7",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_dataGrid/strike_dataGridController.js",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_dataGrid/strike_dataGridController.js",
+            "isDirectory": false,
+            "size": 2054,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590794,
+            "contentHash": "e03d52a4f9137ff942e68de7930d2d0fc00367e9",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_dataGrid/strike_dataGridHelper.js",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_dataGrid/strike_dataGridHelper.js",
+            "isDirectory": false,
+            "size": 7330,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590795,
+            "contentHash": "c5ee9c3a8377f81e99edaf1250a0c16dae32be3a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_datepicker/strike_datepicker.cmp",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_datepicker/strike_datepicker.cmp",
+            "isDirectory": false,
+            "size": 11897,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590820,
+            "contentHash": "91a42a26da529aafcefa5f9773ee8065c65ab9cb",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_datepicker/strike_datepicker.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_datepicker/strike_datepicker.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590817,
+            "contentHash": "379d947ebfaf249a903d8b860a7dcc5904e5d4aa",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_datepicker/strike_datepicker.css",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_datepicker/strike_datepicker.css",
+            "isDirectory": false,
+            "size": 5708,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590817,
+            "contentHash": "6b42a78e3fa65ea8db91ab30960096b9de9351ba",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_datepicker/strike_datepickerController.js",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_datepicker/strike_datepickerController.js",
+            "isDirectory": false,
+            "size": 10307,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590816,
+            "contentHash": "9a78d3a3af8c44fca5bc445e8e425eac0373c9ea",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_datepicker/strike_datepickerHelper.js",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_datepicker/strike_datepickerHelper.js",
+            "isDirectory": false,
+            "size": 14500,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590816,
+            "contentHash": "bcc2292335a28b3a9e677f261dc2ce8bdacdcb82",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_datepicker/strike_datepickerRenderer.js",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_datepicker/strike_datepickerRenderer.js",
+            "isDirectory": false,
+            "size": 1788,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590815,
+            "contentHash": "b6996aa6b6835f198ff9382d94262f42d5968807",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_evt/strike_evt.evt",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_evt/strike_evt.evt",
+            "isDirectory": false,
+            "size": 1763,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590836,
+            "contentHash": "33ee9aeaddbee4f1e796babb8e886e334b61b2d2",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_evt/strike_evt.evt-meta.xml",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_evt/strike_evt.evt-meta.xml",
+            "isDirectory": false,
+            "size": 210,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590835,
+            "contentHash": "f7ee9cb8389c90e583a6a36dea2316c49f4541a6",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_input/strike_input.cmp",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_input/strike_input.cmp",
+            "isDirectory": false,
+            "size": 14786,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590856,
+            "contentHash": "46bc6354b2d2230c1d0dc505df46dcee812360f1",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_input/strike_input.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_input/strike_input.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590854,
+            "contentHash": "379d947ebfaf249a903d8b860a7dcc5904e5d4aa",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_input/strike_input.css",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_input/strike_input.css",
+            "isDirectory": false,
+            "size": 2749,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590857,
+            "contentHash": "a67b5043b2a5908311c52e905a8ddffe2efbea99",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_input/strike_inputController.js",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_input/strike_inputController.js",
+            "isDirectory": false,
+            "size": 5649,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590857,
+            "contentHash": "e623cd09f46a595c9708c76b34d03e5a9623e847",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_input/strike_inputHelper.js",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_input/strike_inputHelper.js",
+            "isDirectory": false,
+            "size": 3093,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590855,
+            "contentHash": "130c72548c7b550e4a1f6a3a69065c00b68946c9",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_lookup/strike_lookup.cmp",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_lookup/strike_lookup.cmp",
+            "isDirectory": false,
+            "size": 16535,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590880,
+            "contentHash": "bcccbae6d9d6b9cef3ea304dc86fbe2f19a11c09",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_lookup/strike_lookup.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_lookup/strike_lookup.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590881,
+            "contentHash": "379d947ebfaf249a903d8b860a7dcc5904e5d4aa",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_lookup/strike_lookup.css",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_lookup/strike_lookup.css",
+            "isDirectory": false,
+            "size": 7050,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590881,
+            "contentHash": "c0c1378d3d915bab8a1581547f50b96967adaecf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_lookup/strike_lookupController.js",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_lookup/strike_lookupController.js",
+            "isDirectory": false,
+            "size": 9207,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590879,
+            "contentHash": "8ce5bc798d8285503673575d7ad993bb21e9e6ba",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_lookup/strike_lookupHelper.js",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_lookup/strike_lookupHelper.js",
+            "isDirectory": false,
+            "size": 11781,
+            "modifiedTime": 1550974605664,
+            "changeTime": 1550974605664,
+            "contentHash": "5536abfc39eb955f76bf065cb6d4e08fa98511ea",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_lookup/strike_lookupRenderer.js",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_lookup/strike_lookupRenderer.js",
+            "isDirectory": false,
+            "size": 1781,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590878,
+            "contentHash": "0f8f1bc86005ffc881b37e8b051b7ece50073336",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_modal/strike_modal.cmp",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_modal/strike_modal.cmp",
+            "isDirectory": false,
+            "size": 5699,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590902,
+            "contentHash": "fa7d8580161591b83638d7b34683f64c762d3ecc",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_modal/strike_modal.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_modal/strike_modal.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590899,
+            "contentHash": "379d947ebfaf249a903d8b860a7dcc5904e5d4aa",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_modal/strike_modalController.js",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_modal/strike_modalController.js",
+            "isDirectory": false,
+            "size": 3650,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590901,
+            "contentHash": "21dd41d0a28ead628ba55d5455e820bbaf77d493",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_modal/strike_modalHelper.js",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_modal/strike_modalHelper.js",
+            "isDirectory": false,
+            "size": 3231,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590900,
+            "contentHash": "56c85196ddf327765f01afe5da647fc8af77aebd",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_modal/strike_modalRenderer.js",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_modal/strike_modalRenderer.js",
+            "isDirectory": false,
+            "size": 1784,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590903,
+            "contentHash": "f14214253df797e0eba9966ed8cc9d5bd2c6c0b4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_multiLookup/strike_multiLookup.cmp",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_multiLookup/strike_multiLookup.cmp",
+            "isDirectory": false,
+            "size": 16223,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590924,
+            "contentHash": "92f1bd5236aeea0aeca3bc13cc27cee8fe6af2cc",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_multiLookup/strike_multiLookup.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_multiLookup/strike_multiLookup.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590923,
+            "contentHash": "379d947ebfaf249a903d8b860a7dcc5904e5d4aa",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_multiLookup/strike_multiLookup.css",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_multiLookup/strike_multiLookup.css",
+            "isDirectory": false,
+            "size": 6572,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590925,
+            "contentHash": "8bbadcc55228b35ab1a24ad6021778105489b694",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_multiLookup/strike_multiLookupController.js",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_multiLookup/strike_multiLookupController.js",
+            "isDirectory": false,
+            "size": 9326,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590927,
+            "contentHash": "1c088c0aa3045752c88fcc8ef44af28283eb379a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_multiLookup/strike_multiLookupHelper.js",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_multiLookup/strike_multiLookupHelper.js",
+            "isDirectory": false,
+            "size": 13480,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590926,
+            "contentHash": "975eb85f186c2be35d97565a3e6e2eddca7cfabe",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_multiLookup/strike_multiLookupRenderer.js",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_multiLookup/strike_multiLookupRenderer.js",
+            "isDirectory": false,
+            "size": 1785,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590926,
+            "contentHash": "51f21b701dc2c560f68cd5b41dda8be8d5b556c5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_multiSelectPicklist/strike_multiSelectPicklist.cmp",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_multiSelectPicklist/strike_multiSelectPicklist.cmp",
+            "isDirectory": false,
+            "size": 10921,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590945,
+            "contentHash": "f3685981a0a19189c8f4bc356b3b078de3d3747c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_multiSelectPicklist/strike_multiSelectPicklist.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_multiSelectPicklist/strike_multiSelectPicklist.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590943,
+            "contentHash": "379d947ebfaf249a903d8b860a7dcc5904e5d4aa",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_multiSelectPicklist/strike_multiSelectPicklist.css",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_multiSelectPicklist/strike_multiSelectPicklist.css",
+            "isDirectory": false,
+            "size": 3464,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590945,
+            "contentHash": "7caa92f7eb55617f233ef988ba8cd74d15fa0491",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_multiSelectPicklist/strike_multiSelectPicklistController.js",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_multiSelectPicklist/strike_multiSelectPicklistController.js",
+            "isDirectory": false,
+            "size": 6512,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590944,
+            "contentHash": "91e8f97b1e2f3ffcd16e8f401e36cb0560781cd9",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_multiSelectPicklist/strike_multiSelectPicklistHelper.js",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_multiSelectPicklist/strike_multiSelectPicklistHelper.js",
+            "isDirectory": false,
+            "size": 15354,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590946,
+            "contentHash": "069bc7e6d96d78982e4ccced772609f273b74203",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_multiSelectPicklist/strike_multiSelectPicklistRenderer.js",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_multiSelectPicklist/strike_multiSelectPicklistRenderer.js",
+            "isDirectory": false,
+            "size": 1783,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590943,
+            "contentHash": "6f25d262e1f889b3db13ebf44dd16b2fc83de40d",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_option/strike_option.cmp",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_option/strike_option.cmp",
+            "isDirectory": false,
+            "size": 4435,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590965,
+            "contentHash": "23f53021d92cfe183a0c664072afbc2ee9056c65",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_option/strike_option.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_option/strike_option.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590963,
+            "contentHash": "379d947ebfaf249a903d8b860a7dcc5904e5d4aa",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_option/strike_option.css",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_option/strike_option.css",
+            "isDirectory": false,
+            "size": 2020,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590964,
+            "contentHash": "cbff05cabbe5f791e542246e8c486e5ad01f4b97",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_option/strike_optionController.js",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_option/strike_optionController.js",
+            "isDirectory": false,
+            "size": 3580,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590967,
+            "contentHash": "2f08a3db1c62a961db90178e406ec73a2c8251ea",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_option/strike_optionHelper.js",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_option/strike_optionHelper.js",
+            "isDirectory": false,
+            "size": 2193,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590966,
+            "contentHash": "ca62197151290fdcbfd63ec16f33f38712a14a4b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_optionGroup/strike_optionGroup.cmp",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_optionGroup/strike_optionGroup.cmp",
+            "isDirectory": false,
+            "size": 2623,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590983,
+            "contentHash": "38a1cd63f8ccd803eab7ff253fcc71e8cd2a8010",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_optionGroup/strike_optionGroup.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_optionGroup/strike_optionGroup.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590984,
+            "contentHash": "379d947ebfaf249a903d8b860a7dcc5904e5d4aa",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_optionGroup/strike_optionGroupController.js",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_optionGroup/strike_optionGroupController.js",
+            "isDirectory": false,
+            "size": 2109,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590983,
+            "contentHash": "a93138cfb0504d89304aea234e23d4bd46c2ff41",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_optionGroup/strike_optionGroupHelper.js",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_optionGroup/strike_optionGroupHelper.js",
+            "isDirectory": false,
+            "size": 2199,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973590985,
+            "contentHash": "d53c5826f9af3542a0471e77f835d9e0b6c43cfa",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_outputText/strike_outputText.cmp",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_outputText/strike_outputText.cmp",
+            "isDirectory": false,
+            "size": 2993,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591008,
+            "contentHash": "3e827b661e657076d201f51b4d7989928c43a759",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_outputText/strike_outputText.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_outputText/strike_outputText.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 249,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591007,
+            "contentHash": "92c8e64f599e12ea58757c54d2f4569657c293e9",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_outputText/strike_outputTextController.js",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_outputText/strike_outputTextController.js",
+            "isDirectory": false,
+            "size": 2086,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591008,
+            "contentHash": "1dc978eb2f77015e5b735f141116d980027cc885",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_outputText/strike_outputTextHelper.js",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_outputText/strike_outputTextHelper.js",
+            "isDirectory": false,
+            "size": 3728,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591006,
+            "contentHash": "03d6a43cc9e42517afa1080f4bd9cb5951661fc4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_param/strike_param.cmp",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_param/strike_param.cmp",
+            "isDirectory": false,
+            "size": 2023,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591025,
+            "contentHash": "ab7c7b469abcd3eba74c10d7649e9e8d2b822a6a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_param/strike_param.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_param/strike_param.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 244,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591025,
+            "contentHash": "73d4b8ae6810048432347b9c0a8054e5441e2d8d",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_param/strike_paramController.js",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_param/strike_paramController.js",
+            "isDirectory": false,
+            "size": 1802,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591026,
+            "contentHash": "eb387b8a4a1c42c8e1ceeaaf11e8e1b182fb0a3d",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_path/strike_path.cmp",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_path/strike_path.cmp",
+            "isDirectory": false,
+            "size": 7942,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591044,
+            "contentHash": "a748856095a5f70aa7457981208fe033282442b9",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_path/strike_path.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_path/strike_path.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591046,
+            "contentHash": "379d947ebfaf249a903d8b860a7dcc5904e5d4aa",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_path/strike_path.css",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_path/strike_path.css",
+            "isDirectory": false,
+            "size": 2787,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591045,
+            "contentHash": "26ea3699594883c91a1e80c8416e084fa04656ba",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_path/strike_pathController.js",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_path/strike_pathController.js",
+            "isDirectory": false,
+            "size": 3665,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591043,
+            "contentHash": "d5cdbecbaa7da080e7b60716557e3fe724ccf930",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_path/strike_pathHelper.js",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_path/strike_pathHelper.js",
+            "isDirectory": false,
+            "size": 13769,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591045,
+            "contentHash": "87961de0810f5501195050cd755dcbcbb6ee0dff",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_picklist/strike_picklist.cmp",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_picklist/strike_picklist.cmp",
+            "isDirectory": false,
+            "size": 10147,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591063,
+            "contentHash": "956aea539f721750f76a1c507ab5b2f8b31a84a8",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_picklist/strike_picklist.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_picklist/strike_picklist.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591065,
+            "contentHash": "379d947ebfaf249a903d8b860a7dcc5904e5d4aa",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_picklist/strike_picklist.css",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_picklist/strike_picklist.css",
+            "isDirectory": false,
+            "size": 5283,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591064,
+            "contentHash": "4dd5638cd22efaabd82d4afc6043e3d4b8f3b671",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_picklist/strike_picklistController.js",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_picklist/strike_picklistController.js",
+            "isDirectory": false,
+            "size": 5276,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591065,
+            "contentHash": "a736e6e8bca79bd8aa8612e57dcb5c6528fc2739",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_picklist/strike_picklistHelper.js",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_picklist/strike_picklistHelper.js",
+            "isDirectory": false,
+            "size": 8846,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591064,
+            "contentHash": "6eadc7e5f3f3af8adb9d8c42fa8848f9cce8b5c3",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_picklist/strike_picklistRenderer.js",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_picklist/strike_picklistRenderer.js",
+            "isDirectory": false,
+            "size": 1857,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591066,
+            "contentHash": "72ffbaa8932f8a1dc88960b226deeba197a269c3",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_pill/strike_pill.cmp",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_pill/strike_pill.cmp",
+            "isDirectory": false,
+            "size": 6816,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591086,
+            "contentHash": "cbcabe878c609be00a2f376f0f1224b07407cfa3",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_pill/strike_pill.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_pill/strike_pill.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591084,
+            "contentHash": "379d947ebfaf249a903d8b860a7dcc5904e5d4aa",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_pill/strike_pill.css",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_pill/strike_pill.css",
+            "isDirectory": false,
+            "size": 1900,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591087,
+            "contentHash": "f0a8b86ebbafcbcd50a3a7051ae96a5df62a1535",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_pill/strike_pillController.js",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_pill/strike_pillController.js",
+            "isDirectory": false,
+            "size": 2064,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591085,
+            "contentHash": "fb254b93fa03a1998158f4185fe6d203064f8541",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_pill/strike_pillHelper.js",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_pill/strike_pillHelper.js",
+            "isDirectory": false,
+            "size": 1954,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591083,
+            "contentHash": "a62446a61e621cc524a00af8ab7dbcf68444380c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_popover/strike_popover.cmp",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_popover/strike_popover.cmp",
+            "isDirectory": false,
+            "size": 5056,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591105,
+            "contentHash": "155c562ad7cdadf477eaab3004b811bb8a9bad8c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_popover/strike_popover.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_popover/strike_popover.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591107,
+            "contentHash": "379d947ebfaf249a903d8b860a7dcc5904e5d4aa",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_popover/strike_popover.css",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_popover/strike_popover.css",
+            "isDirectory": false,
+            "size": 2126,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591106,
+            "contentHash": "953e0002d32a107599ea9fd41acea294813d1f55",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_popover/strike_popoverController.js",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_popover/strike_popoverController.js",
+            "isDirectory": false,
+            "size": 3172,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591103,
+            "contentHash": "d1469a99eed4c7fbbe8b51a4a8817bf4ec30b354",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_popover/strike_popoverHelper.js",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_popover/strike_popoverHelper.js",
+            "isDirectory": false,
+            "size": 10997,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591104,
+            "contentHash": "5a8f1e632845c9629819c2cd9189efd33b20e8cf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_progressMeter/strike_progressMeter.cmp",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_progressMeter/strike_progressMeter.cmp",
+            "isDirectory": false,
+            "size": 5661,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591127,
+            "contentHash": "88fc62b98b436d1a62eaa18a5ccfd13addaa11eb",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_progressMeter/strike_progressMeter.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_progressMeter/strike_progressMeter.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 252,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591126,
+            "contentHash": "dd9481d109332dfd3efa99f6e4b070c0b8ed4f07",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_progressMeter/strike_progressMeter.css",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_progressMeter/strike_progressMeter.css",
+            "isDirectory": false,
+            "size": 2485,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591127,
+            "contentHash": "07a01bb520abc0924f08e8f729d4d20600dacc61",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_progressMeter/strike_progressMeterController.js",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_progressMeter/strike_progressMeterController.js",
+            "isDirectory": false,
+            "size": 3414,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591128,
+            "contentHash": "146f573b905c05673c9057bc499647788dd1ab0d",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_radioGroup/strike_radioGroup.cmp",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_radioGroup/strike_radioGroup.cmp",
+            "isDirectory": false,
+            "size": 4014,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591147,
+            "contentHash": "cd8aedce92aa2ba7e566608063dc3a3103ccfb65",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_radioGroup/strike_radioGroup.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_radioGroup/strike_radioGroup.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591144,
+            "contentHash": "379d947ebfaf249a903d8b860a7dcc5904e5d4aa",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_radioGroup/strike_radioGroup.css",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_radioGroup/strike_radioGroup.css",
+            "isDirectory": false,
+            "size": 1698,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591146,
+            "contentHash": "b1275a8cc7d21c8b4fa8cf6c57d07a85b2e0ecfb",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_radioGroup/strike_radioGroupController.js",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_radioGroup/strike_radioGroupController.js",
+            "isDirectory": false,
+            "size": 2235,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591148,
+            "contentHash": "cd07c554f1907bf2b3c1143a13bc01777ca670e4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_radioGroup/strike_radioGroupHelper.js",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_radioGroup/strike_radioGroupHelper.js",
+            "isDirectory": false,
+            "size": 3670,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591145,
+            "contentHash": "05c715ab51a67b57849a0990b7c3f270d23cec4c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_radioGroup/strike_radioGroupRenderer.js",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_radioGroup/strike_radioGroupRenderer.js",
+            "isDirectory": false,
+            "size": 1789,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591146,
+            "contentHash": "6a41524774aae3d6c07071653cb61efd46a0c5cd",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_radioGroupContent/strike_radioGroupContent.cmp",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_radioGroupContent/strike_radioGroupContent.cmp",
+            "isDirectory": false,
+            "size": 2597,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591165,
+            "contentHash": "136b276aa8b3486f8adffa16a816a1dea836e5bf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_radioGroupContent/strike_radioGroupContent.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_radioGroupContent/strike_radioGroupContent.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591164,
+            "contentHash": "379d947ebfaf249a903d8b860a7dcc5904e5d4aa",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_radioGroupContent/strike_radioGroupContentController.js",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_radioGroupContent/strike_radioGroupContentController.js",
+            "isDirectory": false,
+            "size": 1848,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591166,
+            "contentHash": "56a6ccfd1e38aaa3372fa8b433fdc1f1dcc0b2a9",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_radioGroupContent/strike_radioGroupContentHelper.js",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_radioGroupContent/strike_radioGroupContentHelper.js",
+            "isDirectory": false,
+            "size": 1907,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591167,
+            "contentHash": "e710dd8875e0046d3e24afdb94cc7218fe91e6f5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_row/strike_row.cmp",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_row/strike_row.cmp",
+            "isDirectory": false,
+            "size": 3195,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591183,
+            "contentHash": "d068dd11065c34f738d88328ee4d616b6bab92f4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_row/strike_row.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_row/strike_row.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591184,
+            "contentHash": "379d947ebfaf249a903d8b860a7dcc5904e5d4aa",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_row/strike_rowController.js",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_row/strike_rowController.js",
+            "isDirectory": false,
+            "size": 2306,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591183,
+            "contentHash": "54f1b2822242a9f1bba0c59f925466608c03b30a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_svg/strike_svg.cmp",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_svg/strike_svg.cmp",
+            "isDirectory": false,
+            "size": 2128,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591205,
+            "contentHash": "58ed1b2440fad8cefade67e76f050ae69ea947e9",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_svg/strike_svg.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_svg/strike_svg.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591206,
+            "contentHash": "379d947ebfaf249a903d8b860a7dcc5904e5d4aa",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_svg/strike_svgRenderer.js",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_svg/strike_svgRenderer.js",
+            "isDirectory": false,
+            "size": 2776,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591204,
+            "contentHash": "6666f4852e7ba884f239137fe19d604e3bc6966b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_textarea/strike_textarea.cmp",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_textarea/strike_textarea.cmp",
+            "isDirectory": false,
+            "size": 7079,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591223,
+            "contentHash": "d8598d1a53d14a12ac30805fc6c003c527f89e84",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_textarea/strike_textarea.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_textarea/strike_textarea.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591225,
+            "contentHash": "379d947ebfaf249a903d8b860a7dcc5904e5d4aa",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_textarea/strike_textarea.css",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_textarea/strike_textarea.css",
+            "isDirectory": false,
+            "size": 1857,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591224,
+            "contentHash": "3be6c5d3a8f6c045c521dea6395104abd387b89e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_textarea/strike_textareaController.js",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_textarea/strike_textareaController.js",
+            "isDirectory": false,
+            "size": 4594,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591223,
+            "contentHash": "60a6b5fbcc7e7a11c9c7de1d2c8e9635dad83a86",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_textarea/strike_textareaHelper.js",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_textarea/strike_textareaHelper.js",
+            "isDirectory": false,
+            "size": 2838,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591224,
+            "contentHash": "c739dcfc2a95f6680441cfd537e6d24814ada314",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_tile/strike_tile.cmp",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_tile/strike_tile.cmp",
+            "isDirectory": false,
+            "size": 6137,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591242,
+            "contentHash": "d14de85227cfbfb9421f1c99d8bffbb92b46635e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_tile/strike_tile.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_tile/strike_tile.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591243,
+            "contentHash": "379d947ebfaf249a903d8b860a7dcc5904e5d4aa",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_tile/strike_tile.css",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_tile/strike_tile.css",
+            "isDirectory": false,
+            "size": 2302,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591241,
+            "contentHash": "f572b7d68ae465b4dd6211e54512361503b45e14",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_tile/strike_tileController.js",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_tile/strike_tileController.js",
+            "isDirectory": false,
+            "size": 2065,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591244,
+            "contentHash": "914b8daed583bbe531cf8617921eb93ddd18d591",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_tile/strike_tileHelper.js",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_tile/strike_tileHelper.js",
+            "isDirectory": false,
+            "size": 1841,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591241,
+            "contentHash": "13fc79a6e9dfc28dd3776f6479467f751d48275a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_tooltip/strike_tooltip.cmp",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_tooltip/strike_tooltip.cmp",
+            "isDirectory": false,
+            "size": 3005,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591262,
+            "contentHash": "20c81b070f2af567dcbfc4de7e746391a501ffe7",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_tooltip/strike_tooltip.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_tooltip/strike_tooltip.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591264,
+            "contentHash": "379d947ebfaf249a903d8b860a7dcc5904e5d4aa",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_tooltip/strike_tooltip.css",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_tooltip/strike_tooltip.css",
+            "isDirectory": false,
+            "size": 2002,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591263,
+            "contentHash": "2ee256b6f480f3b3f679afe36868609d8ad20592",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_tooltip/strike_tooltipController.js",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_tooltip/strike_tooltipController.js",
+            "isDirectory": false,
+            "size": 2568,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591261,
+            "contentHash": "ae66a5ccd9bd160d270506a8f5e52d622a3af1e8",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_tooltip/strike_tooltipHelper.js",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_tooltip/strike_tooltipHelper.js",
+            "isDirectory": false,
+            "size": 7804,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973591263,
+            "contentHash": "3ae1a3335c762be1026cb136be3e5650abea84e4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/classes/strike_lookupController.cls",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/classes/strike_lookupController.cls",
+            "isDirectory": false,
+            "size": 10592,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973725540,
+            "contentHash": "761940abce528071c9ba65899b2316e0e31bee37",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/classes/strike_lookupController.cls-meta.xml",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/classes/strike_lookupController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973725540,
+            "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/classes/strike_responseData.cls",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/classes/strike_responseData.cls",
+            "isDirectory": false,
+            "size": 2330,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973725541,
+            "contentHash": "a616477613ab364e1f2e6ac19904727da7976f8f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/classes/strike_responseData.cls-meta.xml",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/classes/strike_responseData.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973725542,
+            "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/classes/strike_tst_lookupController.cls",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/classes/strike_tst_lookupController.cls",
+            "isDirectory": false,
+            "size": 6916,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973725543,
+            "contentHash": "b01b3d9784312ca46dbd9ecb5123dd3e7eae410b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/classes/strike_tst_lookupController.cls-meta.xml",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/classes/strike_tst_lookupController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973725544,
+            "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/classes/strike_utilities.cls",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/classes/strike_utilities.cls",
+            "isDirectory": false,
+            "size": 2566,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973725544,
+            "contentHash": "6f55d561fe50fcff0c92d811c1e94a0b89fccac9",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/classes/strike_utilities.cls-meta.xml",
+        {
+            "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/classes/strike_utilities.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1512477354000,
+            "changeTime": 1550973725545,
+            "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ]
+]
