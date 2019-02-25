@@ -91,15 +91,15 @@
     [
         "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/ManualRecordShare/ManualRecordShare.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/ManualRecordShare/ManualRecordShare.cmp",
             "isDirectory": false,
+            "size": 3431,
+            "modifiedTime": 1551126074220,
+            "changeTime": 1551126074220,
+            "contentHash": "8a564fe20908bcf2dc109f63ccb3069f6630c2d9",
             "isMetadataFile": false,
-            "size": 3207,
-            "modifiedTime": 1551049249973,
-            "changeTime": 1551049249973,
-            "isWorkspace": false,
-            "contentHash": "951af14096460aac99f43a6ce2da27d7f3adb8c1"
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -164,29 +164,29 @@
     [
         "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/ManualRecordShare/ManualRecordShareController.js",
         {
-            "state": "u",
             "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/ManualRecordShare/ManualRecordShareController.js",
             "isDirectory": false,
+            "size": 204,
+            "modifiedTime": 1551123824407,
+            "changeTime": 1551123824407,
+            "contentHash": "0b105c859da3bbb2c2d4ce55e8f53e7d4320adce",
             "isMetadataFile": false,
-            "size": 208,
-            "modifiedTime": 1551049563889,
-            "changeTime": 1551049563889,
-            "isWorkspace": false,
-            "contentHash": "bba9261601c91843bcc2d29e4e46edf063047ea6"
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
         "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/ManualRecordShare/ManualRecordShareHelper.js",
         {
+            "state": "u",
             "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/ManualRecordShare/ManualRecordShareHelper.js",
             "isDirectory": false,
-            "size": 1472,
-            "modifiedTime": 1550974656766,
-            "changeTime": 1550974656766,
-            "contentHash": "399b628a49837e165688b15d5a9dcca02ebd8edf",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false
+            "size": 1805,
+            "modifiedTime": 1551137694620,
+            "changeTime": 1551137694620,
+            "isWorkspace": false,
+            "contentHash": "a148838d24689edc979ff0272bb6fae1f46b6f2c"
         }
     ],
     [
@@ -1321,10 +1321,10 @@
         {
             "sourcePath": "/Users/admin/sfdx-projects/lightningRecordShare/force-app/main/default/aura/strike_lookup/strike_lookupHelper.js",
             "isDirectory": false,
-            "size": 11781,
-            "modifiedTime": 1550974605664,
-            "changeTime": 1550974605664,
-            "contentHash": "5536abfc39eb955f76bf065cb6d4e08fa98511ea",
+            "size": 11772,
+            "modifiedTime": 1551124459175,
+            "changeTime": 1551124459175,
+            "contentHash": "70b53efc4788e4693adab0ca02d04a7f87d5e4d1",
             "isMetadataFile": false,
             "state": "u"
         }

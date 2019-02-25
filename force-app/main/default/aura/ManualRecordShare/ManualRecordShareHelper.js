@@ -27,8 +27,22 @@
     },
 
     doInit : function(cmp, event, helper) {
-        /*var action = cmp.get('c.getUsers');
-        action.setParams({ location : 'Jonesboro' });
+        alert('The Opportunity Record ID is: ' + cmp.get("v.recordId"));
+    },
+
+    shareRecord : function(cmp, event, helper) {
+        
+        var action = cmp.get('c.manualRecordShare');
+        var rId = cmp.get("v.value");
+        alert('testing: ' + rId);
+
+        debugger;
+        action.setParams(
+            { 
+                recordId : cmp.get("v.recordId"),
+                userOrGroupId : rId
+            }
+        );
 
         var p = helper.executeAction(cmp, action);
         p.then(
@@ -41,6 +55,6 @@
             $A.getCallback(function(error) {
                 alert('Error retrieving user list:  ' + error.message);
             })
-        )*/
+        )
     }
 })

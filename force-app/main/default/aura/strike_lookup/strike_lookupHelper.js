@@ -47,7 +47,7 @@ License: BSD 3-Clause License*/
         getRecordsAction.setCallback(this, function(res) {
             if (res.getState() === 'SUCCESS') {
                 var returnValue = JSON.parse(res.getReturnValue());
-debugger;
+
                 if (returnValue.isSuccess) {
                     returnValue.results.data.forEach(function(record) {
                         returnedRecords.push({

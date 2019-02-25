@@ -4,7 +4,7 @@
   @Author             : Neville O'Meally
   @Group              : 
   @Last Modified By   : phUser@phDomain.com
-  @Last Modified On   : 2/24/2019, 6:00:42 PM
+  @Last Modified On   : 2/25/2019, 3:21:14 PM
   @Modification Log   : 
   @Third Party Plugin : Strike by Appiphony ~~ http://www.lightningstrike.io/#!/gettingStarted 
   ==============================================================================
@@ -14,6 +14,7 @@
 -->
 <aura:component description="ManualRecordShare Component" implements="flexipage:availableForAllPageTypes,force:lightningQuickActionWithoutHeader,force:hasRecordId" controller="ManualRecordShare_controller" access="global" >
     
+    <aura:attribute name="value" type="String" description="value on lookup component that holds the ID of the selected record in the component" />
     <aura:handler name="init" value="{!this}" action="{!c.doInit}" />
     
     <lightning:layout multipleRows="true">
@@ -38,7 +39,9 @@
                             order="Name"
                             limit="5"
                             loadingMessage="Loading..."
-                            errorMessage="Invalid input"/>
+                            errorMessage="Invalid input"
+                            value="{!v.value}"
+                            />
                 </lightning:layoutItem>
 
                 <lightning:layoutItem padding="around-small" size="6" >
